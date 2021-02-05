@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# To Do App Project with React JS
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project created by using React JS, context API and JsonDB with using syntax ES6.
+
+For demo video https://www.youtube.com/watch?v=gdUvnXOLnUk
 
 ## Available Scripts
 
